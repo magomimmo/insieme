@@ -1,2 +1,2 @@
 # insieme
-Proposta di progetto per il rilassamento sicuro del lockdown in Italia,
+Proposta di progetto per rilassare la pressione di COVID-19 sulla filiera alimentare
