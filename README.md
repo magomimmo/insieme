@@ -25,20 +25,21 @@ richiede l'incremento del personale presso i punti vendita, in
 particolare per il caricamento dei beni alimentari sugli scaffali e
 per le attività di cassa.
 
-Su assume che la formazione del nuovo personale addetto al caricamento
-degli scaffali sia piuttosto veloce, nell'ordine della mezza giornata.
+Si assume che la formazione del nuovo personale addetto al caricamento
+degli scaffali sia piuttosto veloce, nell'ordine di qualche ora.
 
 La formazione del personale di cassa potrebbe essere più lunga, ma
-comunque non superiore alle due giornate, se i candidati sono scelti
-con criteri adeguati.
+comunque non superiore alla giornata, se i candidati sono scelti con
+criteri adeguati.
 
 Ma dove recuperare la forza lavoro per potenziare il personale? Le
-ipotesi di lavoro sono molte. La più intuitiva sarebbe quella di
-utilizzare parte dei militari già dislocati sul territorio. Tuttavia
-esistono anche altre opzioni in alternativa o, meglio, ad integrazione
-del corpo militare. 
+ipotesi di lavoro sono molte. Cominciamo a elencarne provvisoriamente
+qualcuna:
 
-> NOTA: mettere qui le potenziali fonti di recupero di forza lavoro
+- Associazioni di Volontariato
+- Reddito di cittadinanza
+- Corpo Militare già dislocato sul territorio
+- etc...
 
 ### Protezione del personale
 
@@ -122,7 +123,11 @@ presso i punti vendita, si suggerisce di riservare la consegna a
 domicilio della spesa, con o senza prenotazione online, esclusivamente
 ai bisognosi.
 
-> NOTA: Vedi nota nel paragrafo precedente.
+Esiste già un [protocollo di
+intesa](docs/PROTOCOLLO-DINTESA-CON-SCHEMA-DI-PROGRAMMA.pdf) tra
+Protezione Civile, ANCI e Coop per aiutare anche con il supporto di
+Associazioni di Volontariato coloro che non possono per qualsiasi
+motivo recarsi a fare la spesa. 
 
 ## Formazione agile dei clienti presso le code
 
