@@ -83,8 +83,17 @@ Si propone di limitare la consegna a domicilio delle prenotazioni ai
 soli cittadini che, pur avendo la possibilità e capacità di prenotare
 la spesa attraverso le App, necessitino della consegna a domicilio.
 
-> NOTA: definire i criteri di filtraggio dei cittadini bisognosi di
-> consegna a domicilio della spesa.
+A titolo esemplificativo e non esaustivo si possono identificare le
+seguenti categorie di persone bisognose della consegna a domicilio:
+
+1. [certificazione di invalidità ex. L104](https://www.linkedin.com/in/ferdinando-acerbi-b52555a);
+
+> NOTA: Identificare fonti di informazione per identificare i
+> bisognosi domiciliati e/o quarantenati a casa dai medici di base o
+> dai Pronto Soccorso. (c'è sicuramente un problema di privacy -
+> capire come si possa risolvere);
+>
+> Altre fonti: Associazioni di assistenza di varia natura
 
 Tutti i cittadini che usano la prenotazione online della spesa, ma che
 non rientrano tra quelli bisognosi della consegna a domicilio,
