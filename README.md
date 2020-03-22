@@ -122,5 +122,21 @@ presso i punti vendita, si suggerisce di riservare la consegna a
 domicilio della spesa, con o senza prenotazione online, esclusivamente
 ai bisognosi.
 
-> NOTA: identificazione delle classi di bisognosi
+> NOTA: Vedi nota nel paragrafo precedente.
+
+## Formazione agile dei clienti presso le code
+
+Sarebbe opportuno che qualora si formassero file agli ingressi dei
+locali dei punti vendita, ci fosse una persona che spieghi ai clienti
+i buoni comportamenti da tenere all'interno dei locali per minimizzare
+i contatti ravvicinati con il personale e con gli altri clienti. 
+
+Laddove possibile, sarebbe opportuno che il personale che coordina
+l'ingresso dei clienti nei locali fosse dotato di termometro
+infrarossi. I clienti con temperatura superiore a 37º non devono
+essere fatti entrare e, al contrario, invitati a tornare subito a
+casa, dopo avere eventualmente lasciato il numero di telefono per
+essere contattati per dal servizio di consegna a domicilio della
+spesa. 
+
 
