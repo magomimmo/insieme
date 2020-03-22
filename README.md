@@ -148,7 +148,5 @@ essere contattati dal servizio di consegna a domicilio della spesa.
 Oltre alle grandi catene alimentari si dovrebbero coinvolgere anche
 le attività più piccole quali salumerie, panifici, mini-market e farmacie.
 Bisognerebbe raccogliere le adesioni, classificarle e geolocalizzarle.
-Indispensabile sarebbe fornire il servizio di ritiro e/o consegna in base alla
-vicinanza del market.
-
-
+Indispensabile sarebbe fornire il servizio di ritiro e/o consegna usando i servizi
+di localizzazione già in uso (per esempio [Google Business](https://www.google.com/intl/it_it/business/)).
