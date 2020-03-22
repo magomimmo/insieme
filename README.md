@@ -22,8 +22,8 @@ di contatti ravvicinati all'interno dei locali dei supermercati.
 
 L'estensione dei giorni e degli orari apertura dei punti vendita
 richiede l'incremento del personale presso i punti vendita, in
-particolare presso per il caricamento dei beni alimentari sugli
-scaffali e per le attività di cassa. 
+particolare per il caricamento dei beni alimentari sugli scaffali e
+per le attività di cassa.
 
 Su assume che la formazione del nuovo personale addetto al caricamento
 degli scaffali sia piuttosto veloce, nell'ordine della mezza giornata.
