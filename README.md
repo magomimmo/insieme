@@ -1,16 +1,117 @@
-# insieme
-Proposta di progetto per rilassare la pressione di COVID-19 sulla filiera alimentare.
+# Insieme
 
-**L’obiettivo** di questo progetto è di organizzare la grande distribuzione in modo tale da tutelare e preservare la salute dei cittadini, consumatori e lavoratori durante l’emergenza sanitaria COVID-19.
+Proposta di progetto per rilassare la pressione di COVID-19 sulla
+filiera alimentare.
 
-## Misure proposte: 
+## Obiettivo
 
-\- **Dal Delivery al ritiro in loco.** Per evitare lo stress sul sistema della distribuzione a domicilio, utilizzare lo stesso sistema di prenotazione della spesa con la differenza che sarà il consumatore a recarsi, nell’orario prestabilito,  nel punto vendita per ritirare gli acquisti. Questa misura è meramente organizzativa e può essere implementata agilmente in poco tempo.
+**L’obiettivo** del progetto Insieme è di supportare la grande
+distribuzione alimentare per tutelare e preservare contemporaneamente
+la salute dei cittadini e dei lavoratori durante l’emergenza sanitaria
+COVID-19. 
 
-\- **Delivery prioritario.** Dato il possibile alleggerimento del sistema delivery in seguito alla misura precedente, garantire il servizio di delivery a domicilio alle fasce deboli e più suscettibili. In particolare, anziani e persone in isolamento. [*Riferimento alla possibilità di utilizzare l’esercito e modalità per conoscere le persone in isolamento da quarantena.*]
+Di seguito alcune misure proposte.
 
-\- **Aperture prolungate.** Qualora fosse possibile, aumentare l’orario di apertura dei punti vendita. Intuitivamente, l’idea è quella di cercare di limitare il numero di persone che visitano il punto vendita nelle stesse fasce orarie. Questa misura è necessaria in quanto ci aspettiamo che non tutti i cittadini siano in grado di utilizzare in modo agile le applicazioni per la prenotazione della spesa.
+## Aperture prolungate
 
-\- **Potenziamento del personale.** Per fare fronte alla emergenza, i punti vendita avranno bisogno di nuova forza lavoro. Riteniamo verosimile che la formazione di questo nuovo personale possa essere svolta in tempi ragionevolmente brevi e chi si possa cominciare al più presto. Questa misura ha anche lo scopo di garantire un reddito da lavoro alle persone in difficoltà economica. [*integriamo qua i punti di Laura?*]
+E' facile intuire che l'estensione degli orari di apertura dei punti
+vendita aiuterebbe a ridurre i picchi di code alle entrate e il numero
+di contatti ravvicinati all'interno dei locali dei supermercati.
 
-\- **Tutela del personale.** In aggiunta alle mascherine e alle altre misure protettive già adottate, i lavoratori in cassa potrebbero essere maggiormente protetti adottando delle barriere in plexiglass. La tutela del personale è fondamentale, è assolutamente necessario evitare che i punti vendita diventino un luogo di contagio. 
+## Potenziamento del personale
+
+L'estensione dei giorni e degli orari apertura dei punti vendita
+richiede l'incremento del personale presso i punti vendita, in
+particolare presso per il caricamento dei beni alimentari sugli
+scaffali e per le attività di cassa. 
+
+Su assume che la formazione del nuovo personale addetto al caricamento
+degli scaffali sia piuttosto veloce, nell'ordine della mezza giornata.
+
+La formazione del personale di cassa potrebbe essere più lunga, ma
+comunque non superiore alle due giornate, se i candidati sono scelti
+con criteri adeguati.
+
+Ma dove recuperare la forza lavoro per potenziare il personale? Le
+ipotesi di lavoro sono molte. La più intuitiva sarebbe quella di
+utilizzare parte dei militari già dislocati sul territorio. Tuttavia
+esistono anche altre opzioni in alternativa o, meglio, ad integrazione
+del corpo militare. 
+
+> NOTA: mettere qui le potenziali fonti di recupero di forza lavoro
+
+### Protezione del personale
+
+Apparentemente la disponibilità di tamponi per verificare la
+positività a COVID-19 è molto ridotta e i tempi dei risultati
+dei tamponi stessi sono troppo lunghi. Inoltre, i lavoratori
+dovrebbero essere ritestati quotidianamente. 
+
+E' evidente che una simile procedura è impossibile da
+implementare. L'unica possibile alternativa in questo momento, oltre
+all'ovvio allontanamento di tutti i lavoratori sintomatici, è di
+dotare i rimanenti di mascherine e guanti monouso e quant'altro si
+ritenga opportuno.
+
+> NOTA: verifica delle opportune misure di protezione sul lavoro nei
+> punti vendita. 
+
+Bisogna poi pensare a una maggiore protezione dal contagio
+attivo/passivo di chi, lavorando alle casse, ha il maggior numero di
+contatti giornalieri ravvicinati. Una prima ipotesi di lavoro è quella
+di creare delle barriere di plexiglas trasparente alle casse. 
+
+## Ritiro presso il punto vendita
+
+Il potenziamento del personale necessario al prolungamento dei giorni
+e degli orari di apertura dei punti vendita ha lo scopo di ridurre il
+numero di contatti fisici potenzialmente contagiosi. Tuttavia,
+esistono altre importanti misure che potrebbero contribuire alla
+riduzione dei contatti fisici, in particolare di quelli che avvengono
+tra cittadini e tra cittadini e lavoratori all'interno dei punti
+vendita.
+
+Tutte le catene di distribuzione alimentare sono dotate di App per
+fare la spesa remotamente la cui consegna a domicilio è consegnata in
+fasce orarie predefinite.
+
+Chi usa questo servizio ha già però sperimentano i lunghissimi tempi
+di consegna e, in alcuni casi, la sospensione del servizio di consegna
+stesso. 
+
+Si propone di limitare la consegna a domicilio delle prenotazioni ai
+soli cittadini che, pur avendo la possibilità e capacità di prenotare
+la spesa attraverso le App, necessitino della consegna a domicilio.
+
+> NOTA: definire i criteri di filtraggio dei cittadini bisognosi di
+> consegna a domicilio della spesa.
+
+Tutti i cittadini che usano la prenotazione online della spesa, ma che
+non rientrano tra quelli bisognosi della consegna a domicilio,
+potranno invece ritirare la spessa presso il punto vendita, mantenendo
+l'organizzazione per fasce orarie.
+
+Naturalmente è necessario diffondere l'uso della App di prenotazione
+della spesa a coloro che, pur potendolo fare, ancora non le usano, e
+si recano con frequenza quotidiana presso i punti vendita. 
+
+In pratica, allo scopo di ridurre i tempi di attesa in fila alle
+entrate dei punti vendita e il numero di contatti fisici all'interno
+degli stessi, si propone di incentivare l'uso delle App di
+prenotazione online della spesa con ritiro presso i punti vendita.
+
+Il potenziamento del personale sopra descritto ha quindi anche lo
+scopo di preparare le spese prenotate online dai cittadini non
+bisognosi della consegna a domicilio in modo che siano pronte per il
+ritiro presso i punti vendita in corrispondenza delle fasce orarie
+prenotate.
+
+## Consegna a domicilio
+
+Come descritto più sopra, a seguito della riduzione della pressione
+presso i punti vendita, si suggerisce di riservare la consegna a
+domicilio della spesa, con o senza prenotazione online, esclusivamente
+ai bisognosi.
+
+> NOTA: identificazione delle classi di bisognosi
+
