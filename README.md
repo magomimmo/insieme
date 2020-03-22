@@ -136,7 +136,6 @@ l'ingresso dei clienti nei locali fosse dotato di termometro
 infrarossi. I clienti con temperatura superiore a 37º non devono
 essere fatti entrare e, al contrario, invitati a tornare subito a
 casa, dopo avere eventualmente lasciato il numero di telefono per
-essere contattati per dal servizio di consegna a domicilio della
-spesa. 
+essere contattati dal servizio di consegna a domicilio della spesa.
 
 
