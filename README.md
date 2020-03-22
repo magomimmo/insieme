@@ -143,4 +143,12 @@ essere fatti entrare e, al contrario, invitati a tornare subito a
 casa, dopo avere eventualmente lasciato il numero di telefono per
 essere contattati dal servizio di consegna a domicilio della spesa.
 
+## Coinvolgere anche le piccole attività commerciali
+
+Oltre alle grandi catene alimentari si dovrebbero coinvolgere anche
+le attività più piccole quali salumerie, panifici, mini-market e farmacie.
+Bisognerebbe raccogliere le adesioni, classificarle e geolocalizzarle.
+Indispensabile sarebbe fornire il servizio di ritiro e/o consegna in base alla
+vicinanza del market.
+
 
